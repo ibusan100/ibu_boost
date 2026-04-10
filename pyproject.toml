@@ -55,9 +55,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ibusan100/Screening-Boosted-Trees"
-Repository = "https://github.com/ibusan100/Screening-Boosted-Trees"
-"Bug Tracker" = "https://github.com/ibusan100/Screening-Boosted-Trees/issues"
+Homepage = "https://github.com/ibusan100/ibu_boost"
+Repository = "https://github.com/ibusan100/ibu_boost"
+"Bug Tracker" = "https://github.com/ibusan100/ibu_boost/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
